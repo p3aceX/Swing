@@ -1,28 +1,8 @@
 [
   {
     "over": 0,
-    "batter": "WCF Smeed",
-    "bowler": "AJ Hosein",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 0,
-    "batter": "Waseem Muhammad",
-    "bowler": "AJ Hosein",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 0,
-    "batter": "WCF Smeed",
-    "bowler": "AJ Hosein",
+    "batter": "RV Uthappa",
+    "bowler": "BTJ Wheal",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -31,8 +11,28 @@
   },
   {
     "over": 0,
-    "batter": "WCF Smeed",
-    "bowler": "AJ Hosein",
+    "batter": "RV Uthappa",
+    "bowler": "BTJ Wheal",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 0,
+    "batter": "HG Munsey",
+    "bowler": "BTJ Wheal",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 0,
+    "batter": "HG Munsey",
+    "bowler": "BTJ Wheal",
     "runs": 1,
     "runsBatsman": 0,
     "extras": 1,
@@ -41,8 +41,8 @@
   },
   {
     "over": 0,
-    "batter": "Waseem Muhammad",
-    "bowler": "AJ Hosein",
+    "batter": "HG Munsey",
+    "bowler": "BTJ Wheal",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -51,28 +51,18 @@
   },
   {
     "over": 0,
-    "batter": "Waseem Muhammad",
-    "bowler": "AJ Hosein",
-    "runs": 0,
-    "runsBatsman": 0,
+    "batter": "HG Munsey",
+    "bowler": "BTJ Wheal",
+    "runs": 1,
+    "runsBatsman": 1,
     "extras": 0,
     "wicket": null,
     "kind": null
   },
   {
-    "over": 1,
-    "batter": "WCF Smeed",
-    "bowler": "CBRLS Kumara",
-    "runs": 3,
-    "runsBatsman": 3,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 1,
-    "batter": "Waseem Muhammad",
-    "bowler": "CBRLS Kumara",
+    "over": 0,
+    "batter": "RV Uthappa",
+    "bowler": "BTJ Wheal",
     "runs": 1,
     "runsBatsman": 1,
     "extras": 0,
@@ -81,8 +71,18 @@
   },
   {
     "over": 1,
-    "batter": "WCF Smeed",
-    "bowler": "CBRLS Kumara",
+    "batter": "RV Uthappa",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 1,
+    "batter": "RV Uthappa",
+    "bowler": "C Overton",
     "runs": 1,
     "runsBatsman": 1,
     "extras": 0,
@@ -91,8 +91,8 @@
   },
   {
     "over": 1,
-    "batter": "Waseem Muhammad",
-    "bowler": "CBRLS Kumara",
+    "batter": "HG Munsey",
+    "bowler": "C Overton",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -101,8 +101,8 @@
   },
   {
     "over": 1,
-    "batter": "Waseem Muhammad",
-    "bowler": "CBRLS Kumara",
+    "batter": "HG Munsey",
+    "bowler": "C Overton",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -111,18 +111,248 @@
   },
   {
     "over": 1,
-    "batter": "Waseem Muhammad",
-    "bowler": "CBRLS Kumara",
+    "batter": "HG Munsey",
+    "bowler": "C Overton",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
-    "wicket": "Waseem Muhammad",
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 1,
+    "batter": "HG Munsey",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 2,
+    "batter": "RV Uthappa",
+    "bowler": "BTJ Wheal",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 2,
+    "batter": "HG Munsey",
+    "bowler": "BTJ Wheal",
+    "runs": 4,
+    "runsBatsman": 4,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 2,
+    "batter": "HG Munsey",
+    "bowler": "BTJ Wheal",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 2,
+    "batter": "RV Uthappa",
+    "bowler": "BTJ Wheal",
+    "runs": 2,
+    "runsBatsman": 2,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 2,
+    "batter": "RV Uthappa",
+    "bowler": "BTJ Wheal",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 2,
+    "batter": "RV Uthappa",
+    "bowler": "BTJ Wheal",
+    "runs": 6,
+    "runsBatsman": 6,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 3,
+    "batter": "HG Munsey",
+    "bowler": "C Overton",
+    "runs": 6,
+    "runsBatsman": 6,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 3,
+    "batter": "HG Munsey",
+    "bowler": "C Overton",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 3,
+    "batter": "RV Uthappa",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 3,
+    "batter": "RV Uthappa",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 3,
+    "batter": "RV Uthappa",
+    "bowler": "C Overton",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 3,
+    "batter": "HG Munsey",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 4,
+    "batter": "RV Uthappa",
+    "bowler": "Zahoor Khan",
+    "runs": 4,
+    "runsBatsman": 4,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 4,
+    "batter": "RV Uthappa",
+    "bowler": "Zahoor Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 4,
+    "batter": "HG Munsey",
+    "bowler": "Zahoor Khan",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 4,
+    "batter": "HG Munsey",
+    "bowler": "Zahoor Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 4,
+    "batter": "RV Uthappa",
+    "bowler": "Zahoor Khan",
+    "runs": 6,
+    "runsBatsman": 6,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 4,
+    "batter": "RV Uthappa",
+    "bowler": "Zahoor Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 5,
+    "batter": "RV Uthappa",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 5,
+    "batter": "RV Uthappa",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 5,
+    "batter": "RV Uthappa",
+    "bowler": "C Overton",
+    "runs": 4,
+    "runsBatsman": 4,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 5,
+    "batter": "RV Uthappa",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": "RV Uthappa",
     "kind": "caught"
   },
   {
-    "over": 2,
-    "batter": "WCF Smeed",
-    "bowler": "AJ Hosein",
+    "over": 5,
+    "batter": "MD Shanaka",
+    "bowler": "C Overton",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -130,19 +360,9 @@
     "kind": null
   },
   {
-    "over": 2,
-    "batter": "WCF Smeed",
-    "bowler": "AJ Hosein",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 2,
-    "batter": "ADS Fletcher",
-    "bowler": "AJ Hosein",
+    "over": 5,
+    "batter": "MD Shanaka",
+    "bowler": "C Overton",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -150,9 +370,9 @@
     "kind": null
   },
   {
-    "over": 2,
-    "batter": "ADS Fletcher",
-    "bowler": "AJ Hosein",
+    "over": 6,
+    "batter": "HG Munsey",
+    "bowler": "Zahir Khan",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -160,249 +380,19 @@
     "kind": null
   },
   {
-    "over": 2,
-    "batter": "ADS Fletcher",
-    "bowler": "AJ Hosein",
+    "over": 6,
+    "batter": "HG Munsey",
+    "bowler": "Zahir Khan",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 2,
-    "batter": "ADS Fletcher",
-    "bowler": "AJ Hosein",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 3,
-    "batter": "WCF Smeed",
-    "bowler": "CBRLS Kumara",
-    "runs": 1,
-    "runsBatsman": 0,
-    "extras": 1,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 3,
-    "batter": "WCF Smeed",
-    "bowler": "CBRLS Kumara",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 3,
-    "batter": "ADS Fletcher",
-    "bowler": "CBRLS Kumara",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 3,
-    "batter": "ADS Fletcher",
-    "bowler": "CBRLS Kumara",
-    "runs": 4,
-    "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 3,
-    "batter": "ADS Fletcher",
-    "bowler": "CBRLS Kumara",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 3,
-    "batter": "ADS Fletcher",
-    "bowler": "CBRLS Kumara",
-    "runs": 4,
-    "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 3,
-    "batter": "ADS Fletcher",
-    "bowler": "CBRLS Kumara",
-    "runs": 4,
-    "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 4,
-    "batter": "WCF Smeed",
-    "bowler": "AJ Hosein",
-    "runs": 4,
-    "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 4,
-    "batter": "WCF Smeed",
-    "bowler": "AJ Hosein",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 4,
-    "batter": "WCF Smeed",
-    "bowler": "AJ Hosein",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 4,
-    "batter": "WCF Smeed",
-    "bowler": "AJ Hosein",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": "WCF Smeed",
+    "wicket": "HG Munsey",
     "kind": "caught"
   },
   {
-    "over": 4,
-    "batter": "N Pooran",
-    "bowler": "AJ Hosein",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 4,
-    "batter": "N Pooran",
-    "bowler": "AJ Hosein",
-    "runs": 6,
-    "runsBatsman": 6,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 5,
-    "batter": "ADS Fletcher",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 0,
-    "extras": 1,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 5,
-    "batter": "ADS Fletcher",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 0,
-    "extras": 1,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 5,
-    "batter": "ADS Fletcher",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 0,
-    "extras": 1,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 5,
-    "batter": "ADS Fletcher",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 5,
-    "batter": "N Pooran",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 5,
-    "batter": "ADS Fletcher",
-    "bowler": "AD Russell",
-    "runs": 6,
-    "runsBatsman": 6,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 5,
-    "batter": "ADS Fletcher",
-    "bowler": "AD Russell",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 5,
-    "batter": "ADS Fletcher",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 5,
-    "batter": "N Pooran",
-    "bowler": "AD Russell",
-    "runs": 4,
-    "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
     "over": 6,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
+    "batter": "R Powell",
+    "bowler": "Zahir Khan",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -411,298 +401,18 @@
   },
   {
     "over": 6,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
-    "runs": 2,
-    "runsBatsman": 2,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 6,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
+    "batter": "R Powell",
+    "bowler": "Zahir Khan",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 6,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 6,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 6,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 7,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
-    "runs": 4,
-    "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 7,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
-    "runs": 2,
-    "runsBatsman": 2,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 7,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
-    "runs": 1,
-    "runsBatsman": 0,
-    "extras": 1,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 7,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
-    "runs": 2,
-    "runsBatsman": 2,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 7,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 7,
-    "batter": "N Pooran",
-    "bowler": "RA Reifer",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 7,
-    "batter": "N Pooran",
-    "bowler": "RA Reifer",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 8,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 8,
-    "batter": "N Pooran",
-    "bowler": "SP Narine",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 8,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 8,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
-    "runs": 2,
-    "runsBatsman": 2,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 8,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 8,
-    "batter": "N Pooran",
-    "bowler": "SP Narine",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 9,
-    "batter": "N Pooran",
-    "bowler": "RA Reifer",
-    "runs": 2,
-    "runsBatsman": 2,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 9,
-    "batter": "N Pooran",
-    "bowler": "RA Reifer",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 9,
-    "batter": "N Pooran",
-    "bowler": "RA Reifer",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 9,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
-    "runs": 2,
-    "runsBatsman": 2,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 9,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
-    "runs": 1,
-    "runsBatsman": 0,
-    "extras": 1,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 9,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
-    "runs": 2,
-    "runsBatsman": 2,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 9,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 10,
-    "batter": "ADS Fletcher",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 10,
-    "batter": "N Pooran",
-    "bowler": "AD Russell",
-    "runs": 4,
-    "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 10,
-    "batter": "N Pooran",
-    "bowler": "AD Russell",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": "N Pooran",
+    "wicket": "R Powell",
     "kind": "caught"
   },
   {
-    "over": 10,
-    "batter": "KA Pollard",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 10,
-    "batter": "ADS Fletcher",
-    "bowler": "AD Russell",
+    "over": 6,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -710,9 +420,19 @@
     "kind": null
   },
   {
-    "over": 10,
-    "batter": "ADS Fletcher",
-    "bowler": "AD Russell",
+    "over": 6,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 7,
+    "batter": "MD Shanaka",
+    "bowler": "C Overton",
     "runs": 1,
     "runsBatsman": 1,
     "extras": 0,
@@ -720,9 +440,59 @@
     "kind": null
   },
   {
-    "over": 11,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
+    "over": 7,
+    "batter": "Sikandar Raza",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 7,
+    "batter": "Sikandar Raza",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 7,
+    "batter": "Sikandar Raza",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 7,
+    "batter": "Sikandar Raza",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 7,
+    "batter": "Sikandar Raza",
+    "bowler": "C Overton",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 8,
+    "batter": "MD Shanaka",
+    "bowler": "Zahir Khan",
     "runs": 2,
     "runsBatsman": 2,
     "extras": 0,
@@ -730,9 +500,49 @@
     "kind": null
   },
   {
-    "over": 11,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
+    "over": 8,
+    "batter": "MD Shanaka",
+    "bowler": "Zahir Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 8,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 6,
+    "runsBatsman": 6,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 8,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 8,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 8,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
     "runs": 2,
     "runsBatsman": 2,
     "extras": 0,
@@ -740,29 +550,9 @@
     "kind": null
   },
   {
-    "over": 11,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 11,
-    "batter": "KA Pollard",
-    "bowler": "RA Reifer",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 11,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
+    "over": 9,
+    "batter": "MD Shanaka",
+    "bowler": "DR Mousley",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -770,19 +560,9 @@
     "kind": null
   },
   {
-    "over": 11,
-    "batter": "ADS Fletcher",
-    "bowler": "RA Reifer",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 12,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
+    "over": 9,
+    "batter": "MD Shanaka",
+    "bowler": "DR Mousley",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -790,9 +570,9 @@
     "kind": null
   },
   {
-    "over": 12,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
+    "over": 9,
+    "batter": "MD Shanaka",
+    "bowler": "DR Mousley",
     "runs": 1,
     "runsBatsman": 1,
     "extras": 0,
@@ -800,9 +580,9 @@
     "kind": null
   },
   {
-    "over": 12,
-    "batter": "KA Pollard",
-    "bowler": "SP Narine",
+    "over": 9,
+    "batter": "Sikandar Raza",
+    "bowler": "DR Mousley",
     "runs": 1,
     "runsBatsman": 1,
     "extras": 0,
@@ -810,59 +590,9 @@
     "kind": null
   },
   {
-    "over": 12,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
-    "runs": 2,
-    "runsBatsman": 2,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 12,
-    "batter": "ADS Fletcher",
-    "bowler": "SP Narine",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 12,
-    "batter": "KA Pollard",
-    "bowler": "SP Narine",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 13,
-    "batter": "KA Pollard",
-    "bowler": "CBRLS Kumara",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 13,
-    "batter": "ADS Fletcher",
-    "bowler": "CBRLS Kumara",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": "ADS Fletcher",
-    "kind": "lbw"
-  },
-  {
-    "over": 13,
-    "batter": "Najibullah Zadran",
-    "bowler": "CBRLS Kumara",
+    "over": 9,
+    "batter": "MD Shanaka",
+    "bowler": "DR Mousley",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -870,69 +600,9 @@
     "kind": null
   },
   {
-    "over": 13,
-    "batter": "Najibullah Zadran",
-    "bowler": "CBRLS Kumara",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 13,
-    "batter": "Najibullah Zadran",
-    "bowler": "CBRLS Kumara",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 13,
-    "batter": "KA Pollard",
-    "bowler": "CBRLS Kumara",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 14,
-    "batter": "Najibullah Zadran",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 14,
-    "batter": "KA Pollard",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 14,
-    "batter": "Najibullah Zadran",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 14,
-    "batter": "KA Pollard",
-    "bowler": "AD Russell",
+    "over": 9,
+    "batter": "MD Shanaka",
+    "bowler": "DR Mousley",
     "runs": 4,
     "runsBatsman": 4,
     "extras": 0,
@@ -940,29 +610,9 @@
     "kind": null
   },
   {
-    "over": 14,
-    "batter": "KA Pollard",
-    "bowler": "AD Russell",
-    "runs": 2,
-    "runsBatsman": 2,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 14,
-    "batter": "KA Pollard",
-    "bowler": "AD Russell",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 15,
-    "batter": "Najibullah Zadran",
-    "bowler": "RA Reifer",
+    "over": 10,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
     "runs": 1,
     "runsBatsman": 1,
     "extras": 0,
@@ -970,9 +620,59 @@
     "kind": null
   },
   {
-    "over": 15,
-    "batter": "KA Pollard",
-    "bowler": "RA Reifer",
+    "over": 10,
+    "batter": "MD Shanaka",
+    "bowler": "Zahir Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 10,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 6,
+    "runsBatsman": 6,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 10,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 4,
+    "runsBatsman": 4,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 10,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 10,
+    "batter": "MD Shanaka",
+    "bowler": "Zahir Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 11,
+    "batter": "MD Shanaka",
+    "bowler": "JA Thompson",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -980,9 +680,29 @@
     "kind": null
   },
   {
-    "over": 15,
-    "batter": "KA Pollard",
-    "bowler": "RA Reifer",
+    "over": 11,
+    "batter": "MD Shanaka",
+    "bowler": "JA Thompson",
+    "runs": 2,
+    "runsBatsman": 2,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 11,
+    "batter": "MD Shanaka",
+    "bowler": "JA Thompson",
+    "runs": 4,
+    "runsBatsman": 4,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 11,
+    "batter": "MD Shanaka",
+    "bowler": "JA Thompson",
     "runs": 1,
     "runsBatsman": 0,
     "extras": 1,
@@ -990,9 +710,9 @@
     "kind": null
   },
   {
-    "over": 15,
-    "batter": "KA Pollard",
-    "bowler": "RA Reifer",
+    "over": 11,
+    "batter": "Sikandar Raza",
+    "bowler": "JA Thompson",
     "runs": 1,
     "runsBatsman": 1,
     "extras": 0,
@@ -1000,9 +720,9 @@
     "kind": null
   },
   {
-    "over": 15,
-    "batter": "Najibullah Zadran",
-    "bowler": "RA Reifer",
+    "over": 11,
+    "batter": "MD Shanaka",
+    "bowler": "JA Thompson",
     "runs": 1,
     "runsBatsman": 1,
     "extras": 0,
@@ -1010,9 +730,9 @@
     "kind": null
   },
   {
-    "over": 15,
-    "batter": "KA Pollard",
-    "bowler": "RA Reifer",
+    "over": 12,
+    "batter": "MD Shanaka",
+    "bowler": "Zahoor Khan",
     "runs": 1,
     "runsBatsman": 0,
     "extras": 1,
@@ -1020,9 +740,239 @@
     "kind": null
   },
   {
+    "over": 12,
+    "batter": "MD Shanaka",
+    "bowler": "Zahoor Khan",
+    "runs": 6,
+    "runsBatsman": 6,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 12,
+    "batter": "MD Shanaka",
+    "bowler": "Zahoor Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 12,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahoor Khan",
+    "runs": 1,
+    "runsBatsman": 0,
+    "extras": 1,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 12,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahoor Khan",
+    "runs": 1,
+    "runsBatsman": 0,
+    "extras": 1,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 12,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahoor Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 12,
+    "batter": "MD Shanaka",
+    "bowler": "Zahoor Khan",
+    "runs": 2,
+    "runsBatsman": 2,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 12,
+    "batter": "MD Shanaka",
+    "bowler": "Zahoor Khan",
+    "runs": 4,
+    "runsBatsman": 4,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 12,
+    "batter": "MD Shanaka",
+    "bowler": "Zahoor Khan",
+    "runs": 2,
+    "runsBatsman": 2,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 13,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 13,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 2,
+    "runsBatsman": 0,
+    "extras": 2,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 13,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 13,
+    "batter": "MD Shanaka",
+    "bowler": "Zahir Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 13,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 4,
+    "runsBatsman": 4,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 13,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahir Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 14,
+    "batter": "Sikandar Raza",
+    "bowler": "JA Thompson",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 14,
+    "batter": "MD Shanaka",
+    "bowler": "JA Thompson",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 14,
+    "batter": "MD Shanaka",
+    "bowler": "JA Thompson",
+    "runs": 6,
+    "runsBatsman": 6,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 14,
+    "batter": "MD Shanaka",
+    "bowler": "JA Thompson",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 14,
+    "batter": "MD Shanaka",
+    "bowler": "JA Thompson",
+    "runs": 4,
+    "runsBatsman": 4,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 14,
+    "batter": "MD Shanaka",
+    "bowler": "JA Thompson",
+    "runs": 4,
+    "runsBatsman": 4,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
     "over": 15,
-    "batter": "KA Pollard",
-    "bowler": "RA Reifer",
+    "batter": "Sikandar Raza",
+    "bowler": "DR Mousley",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 15,
+    "batter": "MD Shanaka",
+    "bowler": "DR Mousley",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 15,
+    "batter": "Sikandar Raza",
+    "bowler": "DR Mousley",
+    "runs": 2,
+    "runsBatsman": 0,
+    "extras": 2,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 15,
+    "batter": "MD Shanaka",
+    "bowler": "DR Mousley",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -1031,8 +981,28 @@
   },
   {
     "over": 15,
-    "batter": "KA Pollard",
-    "bowler": "RA Reifer",
+    "batter": "MD Shanaka",
+    "bowler": "DR Mousley",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 15,
+    "batter": "Sikandar Raza",
+    "bowler": "DR Mousley",
+    "runs": 6,
+    "runsBatsman": 6,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 15,
+    "batter": "Sikandar Raza",
+    "bowler": "DR Mousley",
     "runs": 1,
     "runsBatsman": 1,
     "extras": 0,
@@ -1041,38 +1011,8 @@
   },
   {
     "over": 16,
-    "batter": "KA Pollard",
-    "bowler": "AJ Hosein",
-    "runs": 4,
-    "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 16,
-    "batter": "KA Pollard",
-    "bowler": "AJ Hosein",
-    "runs": 4,
-    "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 16,
-    "batter": "KA Pollard",
-    "bowler": "AJ Hosein",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 16,
-    "batter": "Najibullah Zadran",
-    "bowler": "AJ Hosein",
+    "batter": "Sikandar Raza",
+    "bowler": "Zahoor Khan",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -1081,8 +1021,18 @@
   },
   {
     "over": 16,
-    "batter": "Najibullah Zadran",
-    "bowler": "AJ Hosein",
+    "batter": "Sikandar Raza",
+    "bowler": "Zahoor Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 16,
+    "batter": "MD Shanaka",
+    "bowler": "Zahoor Khan",
     "runs": 6,
     "runsBatsman": 6,
     "extras": 0,
@@ -1091,8 +1041,28 @@
   },
   {
     "over": 16,
-    "batter": "Najibullah Zadran",
-    "bowler": "AJ Hosein",
+    "batter": "MD Shanaka",
+    "bowler": "Zahoor Khan",
+    "runs": 0,
+    "runsBatsman": 0,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 16,
+    "batter": "MD Shanaka",
+    "bowler": "Zahoor Khan",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 16,
+    "batter": "Sikandar Raza",
+    "bowler": "Zahoor Khan",
     "runs": 0,
     "runsBatsman": 0,
     "extras": 0,
@@ -1101,18 +1071,8 @@
   },
   {
     "over": 17,
-    "batter": "KA Pollard",
-    "bowler": "CBRLS Kumara",
-    "runs": 4,
-    "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 17,
-    "batter": "KA Pollard",
-    "bowler": "CBRLS Kumara",
+    "batter": "MD Shanaka",
+    "bowler": "JA Thompson",
     "runs": 1,
     "runsBatsman": 1,
     "extras": 0,
@@ -1121,18 +1081,18 @@
   },
   {
     "over": 17,
-    "batter": "Najibullah Zadran",
-    "bowler": "CBRLS Kumara",
-    "runs": 1,
-    "runsBatsman": 1,
+    "batter": "Sikandar Raza",
+    "bowler": "JA Thompson",
+    "runs": 0,
+    "runsBatsman": 0,
     "extras": 0,
     "wicket": null,
     "kind": null
   },
   {
     "over": 17,
-    "batter": "KA Pollard",
-    "bowler": "CBRLS Kumara",
+    "batter": "Sikandar Raza",
+    "bowler": "JA Thompson",
     "runs": 2,
     "runsBatsman": 2,
     "extras": 0,
@@ -1141,140 +1101,40 @@
   },
   {
     "over": 17,
-    "batter": "KA Pollard",
-    "bowler": "CBRLS Kumara",
-    "runs": 1,
-    "runsBatsman": 1,
+    "batter": "Sikandar Raza",
+    "bowler": "JA Thompson",
+    "runs": 4,
+    "runsBatsman": 4,
     "extras": 0,
     "wicket": null,
     "kind": null
   },
   {
     "over": 17,
-    "batter": "Najibullah Zadran",
-    "bowler": "CBRLS Kumara",
+    "batter": "Sikandar Raza",
+    "bowler": "JA Thompson",
+    "runs": 6,
+    "runsBatsman": 6,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 17,
+    "batter": "Sikandar Raza",
+    "bowler": "JA Thompson",
+    "runs": 1,
+    "runsBatsman": 1,
+    "extras": 0,
+    "wicket": null,
+    "kind": null
+  },
+  {
+    "over": 18,
+    "batter": "Sikandar Raza",
+    "bowler": "BTJ Wheal",
     "runs": 4,
     "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 18,
-    "batter": "KA Pollard",
-    "bowler": "SP Narine",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": "KA Pollard",
-    "kind": "caught"
-  },
-  {
-    "over": 18,
-    "batter": "DJ Bravo",
-    "bowler": "SP Narine",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 18,
-    "batter": "Najibullah Zadran",
-    "bowler": "SP Narine",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 18,
-    "batter": "DJ Bravo",
-    "bowler": "SP Narine",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 18,
-    "batter": "Najibullah Zadran",
-    "bowler": "SP Narine",
-    "runs": 6,
-    "runsBatsman": 6,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 18,
-    "batter": "Najibullah Zadran",
-    "bowler": "SP Narine",
-    "runs": 0,
-    "runsBatsman": 0,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 19,
-    "batter": "DJ Bravo",
-    "bowler": "AD Russell",
-    "runs": 6,
-    "runsBatsman": 6,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 19,
-    "batter": "DJ Bravo",
-    "bowler": "AD Russell",
-    "runs": 2,
-    "runsBatsman": 2,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 19,
-    "batter": "DJ Bravo",
-    "bowler": "AD Russell",
-    "runs": 4,
-    "runsBatsman": 4,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 19,
-    "batter": "DJ Bravo",
-    "bowler": "AD Russell",
-    "runs": 1,
-    "runsBatsman": 1,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 19,
-    "batter": "Najibullah Zadran",
-    "bowler": "AD Russell",
-    "runs": 6,
-    "runsBatsman": 6,
-    "extras": 0,
-    "wicket": null,
-    "kind": null
-  },
-  {
-    "over": 19,
-    "batter": "Najibullah Zadran",
-    "bowler": "AD Russell",
-    "runs": 6,
-    "runsBatsman": 6,
     "extras": 0,
     "wicket": null,
     "kind": null

@@ -80,7 +80,7 @@ function calculateSMIForInning(inningIndex) {
     return SMIHistory;
 }
 
-const filePath = 'data/1346926.json';
+const filePath = 'data/1346944.json';
 const dataProcessor = new DataProcessor(filePath);
 
 const SMIHistoryInning1 = calculateSMIForInning(0);

@@ -1,7 +1,7 @@
 import { writeFileSync } from 'fs';
 import { DataProcessor } from './dataProcessor.js';
 
-const filePath = 'data/1346926.json';
+const filePath = 'data/1346944.json';
 const dataProcessor = new DataProcessor(filePath);
 
 const inningSummaries = dataProcessor.getInningSummaries();
