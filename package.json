@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "chartjs-chart-financial": "^0.1.0",
+    "esm": "^3.2.25",
+    "express": "^4.19.2",
+    "highcharts": "^11.4.3",
+    "jsdom": "^24.1.0",
+    "jstat": "^1.9.6",
+    "mathjs": "^13.0.0",
+    "node-html-to-image": "^4.0.0",
+    "plotly.js-dist-min": "^2.33.0"
+  }
+}

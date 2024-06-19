@@ -1,0 +1,42 @@
+[
+  {
+    "strike": 800,
+    "callPremium": 139.66817216326794,
+    "putPremium": 3.8094330310953306
+  },
+  {
+    "strike": 900,
+    "callPremium": 89.86253309083517,
+    "putPremium": 11.816448763836918
+  },
+  {
+    "strike": 1000,
+    "callPremium": 52.766888160144795,
+    "putPremium": 26.667307495978363
+  },
+  {
+    "strike": 1100,
+    "callPremium": 28.429730070976344,
+    "putPremium": 48.388120681246924
+  },
+  {
+    "strike": 1200,
+    "callPremium": 14.194467989575307,
+    "putPremium": 75.5484163322363
+  },
+  {
+    "strike": 1300,
+    "callPremium": 6.642858584405696,
+    "putPremium": 106.30760188581192
+  },
+  {
+    "strike": 1400,
+    "callPremium": 2.9465128139356223,
+    "putPremium": 139.14269862730276
+  },
+  {
+    "strike": 1500,
+    "callPremium": 1.251204963349292,
+    "putPremium": 173.05527732565403
+  }
+]

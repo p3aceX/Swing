@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMI Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h2>Simple Match Index (SMI) - Ball by Ball</h2>
+    <canvas id="smiChart" width="800" height="400"></canvas>
+    <script>
+        async function fetchData() {
+            const response1 = await fetch('SMIHistoryInning1.json');
+            const SMIHistoryInning1 = await response1.json();
+            const response2 = await fetch('SMIHistoryInning2.json');
+            const SMIHistoryInning2 = await response2.json();
+
+            // Generate time series for each ball (1 ball = 1 minute)
+            const timeInning1 = Array.from({ length: SMIHistoryInning1.length }, (_, i) => i + 1);
+            const timeInning2 = Array.from({ length: SMIHistoryInning2.length }, (_, i) => i + 1);
+
+            const ctx = document.getElementById('smiChart').getContext('2d');
+            const smiChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: timeInning1.concat(timeInning2),
+                    datasets: [
+                        {
+                            label: 'Inning 1',
+                            data: SMIHistoryInning1,
+                            borderColor: 'blue',
+                            fill: false
+                        },
+                        {
+                            label: 'Inning 2',
+                            data: SMIHistoryInning2,
+                            borderColor: 'red',
+                            fill: false
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    title: {
+                        display: true,
+                        text: 'Simple Match Index (SMI) - Ball by Ball'
+                    },
+                    tooltips: {
+                        mode: 'index',
+                        intersect: false
+                    },
+                    hover: {
+                        mode: 'nearest',
+                        intersect: true
+                    },
+                    scales: {
+                        xAxes: [{
+                            display: true,
+                            scaleLabel: {
+                                display: true,
+                                labelString: 'Time (minutes)'
+                            }
+                        }],
+                        yAxes: [{
+                            display: true,
+                            scaleLabel: {
+                                display: true,
+                                labelString: 'SMI'
+                            }
+                        }]
+                    }
+                }
+            });
+        }
+
+        fetchData();
+    </script>
+</body>
+</html>
